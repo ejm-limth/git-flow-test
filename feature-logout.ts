@@ -1,1 +1,1 @@
-console.log("logout");
+console.log("feature-logout");
